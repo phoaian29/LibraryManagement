@@ -1,3 +1,8 @@
+<p align="center">
+  <a href="https://hcmus.edu.vn//" title="Trường Đại học Khoa Học Tự Nhiên " style="border: none;">
+    <img src="https://i.imgur.com/WmMnSRt.png" alt="rường Đại học Khoa Học Tự Nhiên | University of Science">
+  </a>
+</p>
 # Phần mềm Quản lý Thư viện
 
 ## Giới thiệu
