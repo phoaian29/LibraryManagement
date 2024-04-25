@@ -19,7 +19,7 @@
 
 |**STT**|**MSSV**|  **Họ và tên**     |       **Email**      |
 |-------|--------|--------------------|----------------------|
-|   1   |21207195|Huynh Thi Ngoc Phuc |21207195@hcmus.eud.vn|
+|   1   |21207195|Huynh Thi Ngoc Phuc |21207195@hcmus.edu.vn|
 |   2   |21207120|Pham Hoai An        |21207120@hcmus.edu.vn|
 |   3   |21207077|Tran Thien Phuc     |21207077@hcmus.edu.vn|
 
